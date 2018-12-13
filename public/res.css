@@ -1,0 +1,93 @@
+#name {
+    color: white;
+    text-align: left;
+    /* font-family: 'Ubuntu', sans-serif; */
+    font-family: 'Raleway', sans-serif;
+    /* font-family: 'Source Sans Pro', sans-serif; */
+    background: rgba(58, 45, 45, 0.856);
+    z-index: 3;
+}
+
+#abt-me {
+    color: white;
+    float: right;
+    font-family: 'Raleway', sans-serif;
+    margin-top: -5.5%;
+    background: rgba(58, 45, 45, 0.856);
+    z-index: 3;
+    font-size: 2em;
+}
+
+    .card-body {
+        margin-bottom: 0px;
+        opacity: .90;
+        margin-bottom: 10px;
+        margin-top: 10px;
+        text-emphasis-color: 100%;
+        background: rgba(43, 42, 42, 0.281);
+    }
+
+#title{
+    color: white;
+    opacity: 1;
+    margin-bottom: 10px;
+    color: black;
+    border-radius: 0%;
+    background: rgba(58, 45, 45, 0.856);
+}
+
+#overall {
+    color: white;
+    opacity: .90;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    text-emphasis-color: 100%;
+    background: rgba(58, 45, 45, 0.856);
+}
+
+#foot {
+    color: white;
+    opacity: .77;
+    margin-top: 10px;
+    background: rgba(58, 45, 45, 0.856);
+    margin-bottom: 10px;
+}
+
+
+body {
+    width: 100%;
+    height: auto;
+    background-image: url("https://www.shore-access.com/wp-content/uploads/2017/08/portfolio-background.jpg");
+    opacity: 0.77;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    filter: brightness(.8);
+};
+
+/*  space: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/items/310760/a427ba159b5fc61522dafe6d6b672387d4ebc4b7.jpg */
+/*     background: rgba(63, 60, 60, 0.856); for space bgd */
+
+/* .row{ 
+    margin: 45%;
+}   */
+/* 
+.column-right{ 
+    float: left; 
+    width: 33%;
+    right: 0px;
+    left: 0px;
+} 
+
+.column-center{ 
+    float: left;
+    width: 33%;
+    left: 0px;
+    right: 0px;
+} */
+
+/* google fonts
+font-family: 'Source Sans Pro', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+*/
